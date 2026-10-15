@@ -8,6 +8,8 @@ programming fundamentals and problem-solving.
 - Basic input and output
 - Variables and data types
 - Arithmetic operators
+- switch-case
+- conditional statements
 
 ## Programs
 
@@ -15,6 +17,8 @@ programming fundamentals and problem-solving.
 |---|---|
 | hello_world.c | Prints Hello World |
 | addition.c | Calculates the sum of two numbers |
+| area_of_circle.c | calculates area of a circle |
+| swap_two_numbers.c | swap two numbers using third variable |
 
 ## Requirements
 

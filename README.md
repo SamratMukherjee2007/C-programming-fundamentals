@@ -1,37 +1,28 @@
-# C-programming-fundamentals
-A collection of C programming exercises covering basic syntax , operators ,conditional statements ,loops ,arrays.
+# C Programming Fundamentals
 
-This repository documents my progress as I strengthen my
-understanding of C and develop problem-solving skills.
+A collection of C programs created while learning
+programming fundamentals and problem-solving.
 
 ## Topics Covered
 
 - Basic input and output
 - Variables and data types
-- Operators
-- Conditional statements
-- Loops
-- Arrays
+- Arithmetic operators
 
-## Repository Structure
+## Programs
 
-| Directory | Topics |
-|-----------|--------|
-| 01-basics | Basic C programs |
-| 02-conditionals | If-else and decision-making |
-| 03-loops | Iteration and loop-based problems |
-| 04-arrays | Array operations and searching |
+| Program | Description |
+|---|---|
+| hello_world.c | Prints Hello World |
+| addition.c | Calculates the sum of two numbers |
 
 ## Requirements
 
-- A C compiler such as GCC
-- A code editor such as Visual Studio Code
+- GCC compiler
+- A C code editor, such as Visual Studio Code
 
-## How to Compile and Run
+## Learning Goals
 
-Navigate to the directory containing the source file.
-
-Compile a program using GCC:
-
-```bash
-gcc array_sum.c -o array_sum
+- Strengthen C programming fundamentals
+- Improve logical thinking
+- Practise writing clean, readable code

@@ -38,6 +38,25 @@ C-programming-fundamentals/
 │   ├── triangle_analyser.c
 │   └── voter_eligibility.c
 │
+├── 03-loops/
+│   ├── README.md
+│   ├── armstrong_num.c
+│   ├── digit_counter.c
+│   ├── factorial.c
+│   ├── krishnamurty_num.c
+│   ├── mul_table.c
+│   ├── power_calc.c
+│   ├── prime_num_check.c
+│   ├── reverse_num.c
+│   ├── sum__of_digits.c
+│   └── sum_of_natural_nums.c
+│
+├── 04-patterns/
+│   ├── README.md
+│   ├── floyd_triangle.c
+│   ├── reverse_triangle.c
+│   ├── triangle.c
+│
 └── README.md
 ```
 
@@ -51,6 +70,8 @@ C-programming-fundamentals/
 - `if`, `if-else`, and `else-if`
 - `switch` statements
 - Logical and relational operators
+- Loop control statements
+- Patterns using loops 
 
 *This list will be updated as I learn and add new concepts.*
 
